@@ -18,7 +18,7 @@ The objective was to transform raw ride-booking data into an interactive dashboa
 
 ## 📊 DASHBOARD PREVIEW
 
-![OLA Ride Booking Dashboard](Dashboard/OLA_Dashboard.png)
+![OLA Ride Booking Dashboard](https://github.com/parasmahajan78/OLA-Ride-Analysis/blob/857a3e27a0709729a39bacece6311be7c8ea9a04/OLA%20Dashboard%20Image.png)
 
 ---
 
